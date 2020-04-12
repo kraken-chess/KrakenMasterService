@@ -1,2 +1,2 @@
-# KrakenMasterService
-Core service managing Kraken Chess website
+# kc-gateway
+Gateway service enabling clients to access kraken-chess resources
